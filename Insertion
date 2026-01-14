@@ -1,0 +1,13 @@
+                       Inserting a element 
+add a new element into the array at a particular position 
+
+means:-
+        insert an element, existing element are shifted,then the new value is placed 
+
+code:-    
+a=[10,20,30,40]
+a append(50)
+size=len(a)
+print(a)
+
+the new element(50) is added at the last position of the array 
