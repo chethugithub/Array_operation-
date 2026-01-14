@@ -1,0 +1,10 @@
+                                      Traversal
+Accessing and displaying each element of the array one by one.
+We start from index 0 and move till the last index, reading each value.
+
+example:-
+i = 0
+while i < len(a):
+    print(a[i]); i += 1
+
+we start from index 0 and print each element until the array ends.
