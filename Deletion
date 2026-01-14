@@ -1,0 +1,10 @@
+                                      Deleting an element 
+Removing an element from the array 
+means:-
+after deleting an element, remaining elements are shifted to fill the gap.
+
+example:-
+pos = 1
+for i in range(pos, len(a)-1): a[i] = a[i+1]
+a.pop()
+//Elements are shifted left to remove the value
