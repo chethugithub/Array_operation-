@@ -1,0 +1,10 @@
+                          modifying the value
+updateing an existing element in the array
+After deleting an element, remaining elements are shifted to fill the gap.
+
+example:-
+
+pos = 2
+a[pos] = 35
+print(a)
+//replacing a new value
