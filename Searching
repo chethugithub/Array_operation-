@@ -1,0 +1,10 @@
+                              Searching a element 
+Finding a particular element exists in the array
+each element is compared with the target value until it is the array ends.
+
+example:-
+
+key=30
+for i in range(len(a)):
+    if a[i]==key:print("found")
+//in the array each element checked one by one until the value is found.
